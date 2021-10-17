@@ -7,6 +7,8 @@
 
 Social NetWorks: **[YouTube (you might get cancer from this lol)](https://www.youtube.com/channel/UCoFqrWO0Bbk19Z9jP4CV-yQ/) ⋅ <!-- [Twitter](https://twitter.com/Taeyai_) ⋅ -->[GitHub](https://github.com/nintendofan44)**
 
+![nintendofan44's GitHub stats](https://github-readme-stats.vercel.app/api?username=nintendofan44&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nintendofan44&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
