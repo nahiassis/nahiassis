@@ -9,8 +9,6 @@ Social NetWorks: **[YouTube (you might get cancer from this lol)](https://www.yo
 
 ![nintendofan44's GitHub stats](https://github-readme-stats.vercel.app/api?username=nintendofan44&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nintendofan44&layout=compact)](https://github.com/nintendofan44/Vs-Scar)
-
 <!--
 **nintendofan44/nintendofan44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
