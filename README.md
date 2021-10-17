@@ -9,7 +9,8 @@ Social NetWorks: **[YouTube (you might get cancer from this lol)](https://www.yo
 
 ![nintendofan44's GitHub stats](https://github-readme-stats.vercel.app/api?username=nintendofan44&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nintendofan44&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **nintendofan44/nintendofan44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
