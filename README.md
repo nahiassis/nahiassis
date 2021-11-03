@@ -15,7 +15,6 @@ Social NetWorks: **[YouTube (you might get cancer from this lol)](https://www.yo
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=nintendofan44&show_icons=true&theme=tokyonight" alt="nintendofan44" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nintendofan44&theme=tokyonight" alt="nintendofan44" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nintendofan44&hide_border=true&theme=tokyonight" alt="nintendofan44" />
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=nintendofan44&column=8&theme=discord&no-frame=true"/>
 </p>
