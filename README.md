@@ -1,6 +1,6 @@
 ### Hello
 
-- 🔭 I’m currently working on a fnf mod yay
+- yeet
 - 📫 How to reach me: Discord: Nahi#0754
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: im a dumbass
