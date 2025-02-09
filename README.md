@@ -1,11 +1,6 @@
-### Hello
-
 - yeet
-- 📫 How to reach me: Discord: Nahi#0754
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: im a dumbass
 
-Social Links: [Twitter](https://twitter.com/nintendof44) ⋅ [GitHub](https://github.com/nintendofan44)**
+Social Links: [Twitter](https://twitter.com/nahitecx) ⋅ [GitHub](https://github.com/nintendofan44)**
 
 <!--![nintendofan44's GitHub stats](https://github-readme-stats.vercel.app/api?username=nintendofan44&show_icons=true&theme=radical)-->
 
